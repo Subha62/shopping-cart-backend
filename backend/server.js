@@ -10,7 +10,7 @@ const app = express();
 
 const allowedOrigins = [
   'http://localhost:3000', 
-  'https://e-commerce-store-mu-flame.vercel.app/' 
+  'https://e-commerce-store-mu-flame.vercel.app' 
 ];
 
 app.use(
